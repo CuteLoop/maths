@@ -9,3 +9,19 @@ Un conjunto no vacío $\R$ junto que tiene operaciones $+$, $\cdot$ y un orden $
 3. Ley distributiva: $x(y+z) = xy + xz$
 4. $\leq$ es un orden total, compatible con $+$ y $\cdot$, y tiene la propiedad arquimediana
 5. Toda sucesión de Cauchy es convergente
+
+
+Va ser muy importante que podamos medir distancias para poder hacer análisis. De aquí vendra la definición de límites y de derivadas. En $\R$ mediremos distancias con una función que llamamos valor absoluto:
+
+\[
+|x| = \begin{cases}
+x, & \text{si } x \geq 0 \\
+-x, & \text{si } x < 0
+\end{cases}
+\]
+
+Propiedades del valor absoluto:
+1. Multiplicación de valores absolutos:
+ $$|x \cdot y| = |x| \cdot |y|$$
+2. Desigualdad del triángulo: 
+$$|x + y| \leq |x| + |y|$$

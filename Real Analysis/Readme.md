@@ -2,6 +2,6 @@
 
 ##### Objetivos: Entender el cálculo diferencial e integral
 ##### Temas: Límites, continuidad, derivadas, integrales
-##### Fundamentos: Números reales
+##### Fundamentos: Números reales $\mathbb{R}$
 
 [Introducción](./intro.md)

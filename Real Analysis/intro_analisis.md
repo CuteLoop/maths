@@ -32,7 +32,9 @@ $$|x + y| \leq |x| + |y|$$
 
 #### Toda sucesión de Cauchy es convergente
 
-Una sucesión $\{a_n\}$ en los números reales es de Cauchy, si para todo número real positivo $\epsilon > 0$ existe un número natural $N$ tal que para todo $m, n \geq N$ se cumple que $|a_m - a_n| < \epsilon$.
+Una sucesión $\{a_n\}$ en los números reales es de Cauchy, si para todo número real positivo $\epsilon > 0$ existe un número natural $N$ tal que para todo $m, n \geq N$ se cumple que $|a_m - a_n| < \epsilon$, 
+
+Mostrar que una suceción es de cauchy es una manera de mostrar que converge sin hacer referencia a un límite.
 
 #### Propiedad de intervalos anidados
 
